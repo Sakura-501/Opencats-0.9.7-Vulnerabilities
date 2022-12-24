@@ -27,3 +27,10 @@ It exists two sql injections, one is boolean-based blind injection, the other is
 ![image](https://user-images.githubusercontent.com/71068573/209432499-4e6f1fa2-1754-43ca-8dab-698683aa75e8.png)
 
 ![image](https://user-images.githubusercontent.com/71068573/209432511-88339329-523c-4fa0-ae34-fee2747c5e36.png)
+
+## Source-Code-Analysis
+**Because it does not have strict control over input, then it is executed.**
+![image](https://user-images.githubusercontent.com/71068573/209432838-e89cfd21-8cfe-4e71-8cc5-088bdae29063.png)
+
+![image](https://user-images.githubusercontent.com/71068573/209432841-36bc5a14-21f4-4877-a2e6-538d36759861.png)
+
