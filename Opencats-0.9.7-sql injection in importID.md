@@ -1,4 +1,18 @@
 # Opencats-0.9.7-sql injection in importID
+Date: 2022/12/24
+
+Exploit Author: Sakura501
+
+Vendor Homepage: https://www.opencats.org/
+
+Software Link: https://github.com/opencats/OpenCATS
+
+Version: 0.9.7
+
+Tested on: Windows11/PHP7.3.4/MySQL5.7.26
+
+## URL
+`http://192.168.2.153/src/opencats/index.php?m=import&a=viewerrors&importID=1`
 
 ## sqlmap-POC
 ```
