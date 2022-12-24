@@ -4,3 +4,4 @@
 ## Vendor Homepage: https://www.opencats.org/
 ## Software Link: https://github.com/opencats/OpenCATS
 ## Version: 0.9.7
+## Tested on: Windows11/PHP7.3.4/MySQL5.7.26
