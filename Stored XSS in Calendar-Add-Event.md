@@ -28,3 +28,5 @@ Tested on: Windows11/PHP7.3.4/MySQL5.7.26
 
 ![image](https://user-images.githubusercontent.com/71068573/209456721-53cb3b93-11a0-4dda-a264-f5bfbc70e0ac.png)
 
+## Source code analysis
+![image](https://user-images.githubusercontent.com/71068573/209458256-b255cb58-e766-4d9c-84c1-1feeee8ce117.png)
