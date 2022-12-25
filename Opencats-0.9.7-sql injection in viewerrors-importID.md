@@ -1,4 +1,4 @@
-# Opencats-0.9.7-sql injection in importID
+# Opencats-0.9.7-sql injection in viewerrors-importID
 Date: 2022/12/24
 
 Exploit Author: Sakura501
